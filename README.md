@@ -1,6 +1,6 @@
 # Dphi_Bootcamp 
 
-This is Deeplearning bootcamp that I take on Dphi. A lot of fun and learning :two_hearts: :two_hearts: 	:weight_lifting_man: 
+This is Deeplearning bootcamp that I took on Dphi. A lot of fun and learning :two_hearts: :two_hearts: 	:weight_lifting_man: 
 
 ## Data Sprint 3. 
 **Place: 15#** :skier:
